@@ -1,65 +1,39 @@
-# 👋 Carta de Apresentação
+# 👋 Thassys Meira --> **Engenheira de Dados | ETL e BI | Automação**
 
-Olá! Me chamo **Thassys Meira**, sou **Analista de Dados e Engenheira de ETL/BI** com mais de 10 anos de experiência em projetos de dados aplicados a ambientes críticos — principalmente no setor **hospitalar** e **governamental**.
-
-Minha atuação combina conhecimento técnico profundo em **SQL, Python, Pentaho, Power BI, Superset, PostgreSQL, Oracle, Tasy e AWS**, com visão estratégica de automação, integração e qualidade da informação.
-
-Sou movida por **eficiência, confiabilidade e entrega de valor real**. Busco sempre resolver problemas práticos com soluções inteligentes, mantendo foco em performance, automação e insights.
-
-Atualmente, estou me aprofundando em **Databricks, Spark, DBT, n8n e agentes de IA (LLMs)** para construir pipelines ainda mais robustos e autônomos.
+Com mais de 10 anos de atuação em ambientes críticos, entrego projetos de dados que **resolvem problemas reais** com automação, performance, seguranca e confiabilidade.
 
 ---
 
-# 💼 Portfólio de Projetos
+# 🚀 Principais Projetos Ativos
 
-Abaixo, um resumo dos principais projetos práticos que implementei e/ou liderei:
+### 🔄 **NPS Automatizado (Python + Oracle + SFTP)** --> Coleta diária de dados, geração de CSV e envio automático. **Reduziu de 15 min para 1 min/dia**, sem falhas.
 
-### 🏥 Hospital Angelina Caron
+### ☁️ **ETL com Pentaho + AWS** --> Implantei do zero: instalação, jobs, S3, automação e documentação. **Corte de 80% no tempo de entrega de dados.**
 
-* **ETL com Pentaho + AWS**: Automatizei extrações e uploads diários com Pentaho e S3 — redução de **80% no tempo de entrega**.
-* **IA para Performance Médica**: Modelei base de dados (views, functions, procedures) que alimentaram IA de avaliação clínica — aumento de **60% na precisão**.
-* **Robô Python para NPS**: Substituí serviço de terceiros com robô próprio — processo diário caiu de **15 para 1 minuto**.
-* **Faturamento Automatizado via Tasy**: Triggers + procedures que validavam e montavam contas de telemedicina de forma instantânea.
-* **BI do Zero com Superset + Power BI**: Estruturei ambiente completo de BI, substituindo Excel por dashboards dinâmicos.
-* **Integrações com Terceiros**: Atuei como ponte entre hospital e plataformas externas (API, Webhook, SFTP).
+### 🧠 **IA para Avaliação Médica** --> Criação de views, procedures e lógica de negócio. Aumento de **60% na precisão dos registros clínicos**.
 
-### 🏛️ Sisteplan (E-Governe)
+### 🏥 **Faturamento Telemedicina (Tasy + SQL)** --> Geração automática de contas via triggers e validações. Tempo por conta passou de 10 min para **instante**.
 
-* **Logs Automatizados (Standby Oracle)**: Pentaho + Crontab reduziram delay para <1h sem intervenção manual.
-* **Migração Crítica de Infraestrutura**: Atualização de Pentaho (4.3 → 9.4) e Oracle (10g → 21c), ajustes em DBLinks e falhas no SQL Server legado.
-* **Correção de ETLs e Scripts**: Reativei scripts em Python, mantive integrações com legado e automatizei alertas (uso de disco, backup, erros).
+### 📊 **BI do Zero com Superset + Power BI** --> Instalei, modelei e automatizei ETLs + dashboards executivos. Eliminei planilhas manuais e licenças desnecessárias.
+
+### 🔗 **Integrações com Terceiros (API, SFTP, Webhook)** --> Dados validados, organizados e enviados com segurança. Pontes técnicas entre hospital e plataformas externas.
+
+### 🚀 **Robo de compra e venda de Cripto** --> PRIVADO.
+---
+
+# 🛠️ Outras Entregas
+
+* 🧾 Logs automatizados entre Oracle Prod/Standby com Pentaho
+* 🧪 Migração de Pentaho 4.3 → 9.4 e Oracle 10g → 21c
+* 🧹 Correção de ETLs, `.bat`, scripts legados e backup monitorado
+* 🔁 Sincronização Oracle → PostgreSQL com verificação por `DT_ATUALIZACAO`
+* 💬 Dashboards Power BI para diretoria e gestão clínica
+* 🤖 Protótipos com Spark, DBT, n8n e integração com LLMs
 
 ---
 
-# 🧠 Tecnologias & Competências
+# 🔗 Acesse
 
-| Área                 | Ferramentas                              |
-| -------------------- | ---------------------------------------- |
-| Linguagens           | SQL, Python, Java, PHP, Delphi           |
-| ETL & BI             | Pentaho, Power BI, Superset, DBT, Looker |
-| Banco de Dados       | Oracle, SQL Server, PostgreSQL, MySQL    |
-| Infra & Cloud        | AWS, Linux, Windows Server               |
-| Integrações          | APIs REST, Webhooks, SFTP, ERP Tasy      |
-| Automação            | Scripts Python, Crontab, Triggers, Jobs  |
-| Ferramentas modernas | Databricks, Spark, n8n, LLMs             |
-
----
-
-# 📚 Formação e Certificações
-
-* Pós-Graduação em Administração de Banco de Dados – FESP
-* Bacharelado em Engenharia da Computação – UNOPAR
-* Certificações:
-
-  * AWS Solutions Architect – Associate
-  * Oracle Cloud Infrastructure Foundations
-  * Power BI, Pentaho, Python, Governança de Dados
-
----
-
-# 🌐 Contato
-
-* [LinkedIn](https://www.linkedin.com/in/thassys-meira)
-* [GitHub](https://github.com/thassysm)
-* ✉️ [thassysm@hotmail.com](mailto:thassysm@hotmail.com)
-* 📞 (41) 99533-3339
+* GitHub: [github.com/thassysm](https://github.com/thassysm)
+* LinkedIn: [linkedin.com/in/thassys-meira](https://linkedin.com/in/thassys-meira)
+* E-mail: [thassysm@hotmail.com](mailto:thassysm@hotmail.com)
